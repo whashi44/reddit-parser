@@ -2,4 +2,5 @@
 /PwC_2021_Compensation_Thread.csv
 /reddit_api_config.json
 /test.csv
-/venv
+/.venv
+.vscode
